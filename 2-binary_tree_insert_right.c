@@ -7,7 +7,7 @@
  * Return: A pointer , or NULL on failure.
  *
  * Description:
- * This function inserts a new node as the right-child of the given parent node.
+ * This function inserts a new node as the right-child the given parent node.
  * If successful, it returns a pointer to the newly created node containing.
  * If the parent node is NULL or memory allocation fails.
  */
